@@ -1,0 +1,28 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.100.142:3000
+- Environments: .env.local
+✓ Ready in 477ms
+✓ Running next.config.ts took 40ms
+
+○ Compiling /login ...
+ GET /login 200 in 6.6s (next.js: 6.0s, application-code: 568ms)
+ GET /login 200 in 38ms (next.js: 8ms, application-code: 30ms)
+○ Compiling /overview ...
+ GET /overview 200 in 5.2s (next.js: 5.1s, application-code: 60ms)
+ GET /customers 200 in 1027ms (next.js: 925ms, application-code: 102ms)
+ GET /login 200 in 51ms (next.js: 9ms, application-code: 42ms)
+ GET /login 200 in 38ms (next.js: 12ms, application-code: 26ms)
+ GET /login 200 in 95ms (next.js: 16ms, application-code: 79ms)
+ GET /overview 200 in 46ms (next.js: 13ms, application-code: 34ms)
+ GET /customers 200 in 35ms (next.js: 5ms, application-code: 30ms)
+ GET /login 200 in 145ms (next.js: 14ms, application-code: 132ms)
+ GET /login 200 in 86ms (next.js: 43ms, application-code: 43ms)
+ GET /login 200 in 68ms (next.js: 18ms, application-code: 51ms)
+ GET /overview 200 in 47ms (next.js: 9ms, application-code: 38ms)
+ GET /customers 200 in 32ms (next.js: 6ms, application-code: 26ms)
+ GET /customers/LTT-000040 200 in 1901ms (next.js: 1866ms, application-code: 35ms)

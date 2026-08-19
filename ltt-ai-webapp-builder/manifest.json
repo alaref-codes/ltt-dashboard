@@ -1,0 +1,14 @@
+{
+  "name": "ltt-ai-webapp-builder",
+  "version": "1.0.0",
+  "entry": "SKILL.md",
+  "audience": "LTT trainees and trainers",
+  "stack": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase",
+    "GitHub",
+    "Vercel"
+  ]
+}
