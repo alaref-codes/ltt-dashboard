@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "ltt-churn-dashboard",
   "version": "0.1.0",
   "private": true,
   "scripts": {
